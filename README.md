@@ -32,6 +32,9 @@ You can download the **sample apk** [here](https://github.com/marcoscgdev/fabscr
 ####Step: 1
 Include the [fabscrollanimations.jar](https://github.com/marcoscgdev/FABScrollAnimations/blob/master/library/fabscrollanimations.jar?raw=true) file to your libs folder.
 ####Step: 2
+Ensure that your layout starts with a CoordinatorLayout.
+####Step: 3
+This library only works with a RecyclerView, so if you have a ListView, migrate it ([this tutorial](http://andraskindler.com/blog/2014/migrating-to-recyclerview-from-listview) can be useful for it).
 
 ```xml
 Coming soon
