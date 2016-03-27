@@ -21,7 +21,7 @@ You can download the **sample apk** [here](https://github.com/marcoscgdev/fabscr
 * The Android Support Library v7 AppCompat.
 * A CoordinatorLayout as the master layout.
 * A RecyclerView with the scroll content.
-* The Support Library Floating Action Button.
+* The Android Support Design Library Floating Action Button.
 
 >(See the sample project for clarify any queries you may have.)
  
