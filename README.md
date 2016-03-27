@@ -82,5 +82,19 @@ There are currently three animations:
 
   Use this layout_behavior:
 ```xml
-app:layout_behavior="com.marcoscg.fabscrollanimations.Default"
+        app:layout_behavior="com.marcoscg.fabscrollanimations.Default"
+```
+
+* **FADE:**
+
+  Use this layout_behavior:
+```xml
+        app:layout_behavior="com.marcoscg.fabscrollanimations.Fade"
+```
+
+* **FLOAT:**
+
+  Use this layout_behavior:
+```xml
+        app:layout_behavior="com.marcoscg.fabscrollanimations.Float"
 ```
