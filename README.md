@@ -12,7 +12,7 @@ With this library, you can made this animations to your Floating Action Button w
 
 **Video demo:** <a href=#><img src=http://www.marketingtango.com/wp-content/uploads/2014/02/YouTube-icon-full_color.png width=50 /></a>
 
-You can download the **sample apk** [here](http://apkshared.net/1JJ5?d=1).
+You can download the **sample apk** [here](https://github.com/marcoscgdev/fabscrollanimations/blob/master/sample.apk?raw=true).
 
 ---
 
