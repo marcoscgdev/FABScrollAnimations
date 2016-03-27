@@ -99,4 +99,4 @@ There are currently three animations:
         app:layout_behavior="com.marcoscg.fabscrollanimations.Float"
 ```
 
->See the sample project for clarify any queries you may have.
+>See the [sample project](https://github.com/marcoscgdev/FABScrollAnimations/tree/master/sample) for clarify any queries you may have.
