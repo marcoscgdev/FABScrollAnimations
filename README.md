@@ -70,3 +70,6 @@ You have to emphasize the last 3 lines of code of the FloatingActionButton.
         app:layout_anchorGravity="bottom|end"
         app:layout_behavior="com.marcoscg.fabscrollanimations.Fade"
 ```
+The first one anchor the FAB with the RecyclerView dimensions.
+The second one controls the FAB gravity.
+The third one tells to the FAB the animation that it have to do when the RecyclerView is beeing scrolled.
