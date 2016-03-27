@@ -22,8 +22,6 @@ You can download the **sample apk** [here](https://github.com/marcoscgdev/fabscr
 * The Android Support Design Library Floating Action Button.
 * A CoordinatorLayout as the master layout.
 * A RecyclerView with the scroll content.
-
->(See the sample project for clarify any queries you may have.)
  
 ---
 
@@ -100,3 +98,5 @@ There are currently three animations:
 ```xml
         app:layout_behavior="com.marcoscg.fabscrollanimations.Float"
 ```
+
+>See the sample project for clarify any queries you may have.
