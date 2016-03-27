@@ -34,8 +34,39 @@ Include the [fabscrollanimations.jar](https://github.com/marcoscgdev/FABScrollAn
 ####Step: 2
 Ensure that your layout starts with a CoordinatorLayout.
 ####Step: 3
-This library only works with a RecyclerView, so if you have a ListView, migrate it ([this tutorial](http://andraskindler.com/blog/2014/migrating-to-recyclerview-from-listview) can be useful for it).
-
+This library only works with a RecyclerView, so if you have a ListView, you'll need to migrate it ([this tutorial](http://andraskindler.com/blog/2014/migrating-to-recyclerview-from-listview) can be useful for it).
+####Step: 4
+An example layout structure can be:
 ```xml
-Coming soon
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+        
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:src="@drawable/plus"
+        app:rippleColor="#4DFFFFFF"
+        app:borderWidth="0dp"
+        app:elevation="6dp"
+        app:layout_anchor="@+id/recyclerview"
+        app:layout_anchorGravity="bottom|end"
+        app:layout_behavior="com.marcoscg.fabscrollanimations.Fade"/>
+
+</android.support.design.widget.CoordinatorLayout>
+```
+You have to emphasize the last 3 lines of code of the FloatingActionButton.
+```xml
+        app:layout_anchor="@+id/recyclerview"
+        app:layout_anchorGravity="bottom|end"
+        app:layout_behavior="com.marcoscg.fabscrollanimations.Fade"
 ```
