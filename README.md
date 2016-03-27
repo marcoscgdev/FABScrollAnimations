@@ -14,3 +14,7 @@ With this library, you can made this animations to your Floating Action Button w
 **DEFAULT        FADE           FLOAT**
 
   ![](http://i.imgur.com/qps7rJU.gif)         ![](http://i.imgur.com/eBi91N9.gif)          ![](http://i.imgur.com/jyKygPS.gif)
+
+Video demo:
+
+You can download the example apk [here](http://apkshared.net/1JJ5?d=1).
