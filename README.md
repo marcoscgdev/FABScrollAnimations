@@ -4,11 +4,7 @@ With this library, you can made this animations to your Floating Action Button w
 
 | DEFAULT   |      FADE      |  FLOAT |
 |----------|:-------------:|------:|
-| ![](http://i.imgur.com/qps7rJU.gif) |  left-aligned | $1600 |
-
-**DEFAULT        FADE           FLOAT**
-
-  ![](http://i.imgur.com/qps7rJU.gif)         ![](http://i.imgur.com/eBi91N9.gif)          ![](http://i.imgur.com/jyKygPS.gif)
+| ![](http://i.imgur.com/qps7rJU.gif) |  ![](http://i.imgur.com/eBi91N9.gif) | ![](http://i.imgur.com/jyKygPS.gif) |
 
 ---
 
