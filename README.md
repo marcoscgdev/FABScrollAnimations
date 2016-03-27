@@ -78,7 +78,8 @@ The third one tells to the FAB the animation that it have to do when the Recycle
 
 There are currently three animations:
 
-* DEFAULT: 
+* **DEFAULT:**
+
   Use this layout_behavior:
 ```xml
 app:layout_behavior="com.marcoscg.fabscrollanimations.Default"
