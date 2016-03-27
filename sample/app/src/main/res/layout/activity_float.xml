@@ -20,6 +20,6 @@
         app:elevation="6dp"
         app:layout_anchor="@+id/recyclerview"
         app:layout_anchorGravity="bottom|end"
-        app:layout_behavior="com.mcgdev.fabscrollanimations.Float"/>
+        app:layout_behavior="com.marcoscg.fabscrollanimations.Float"/>
 
 </android.support.design.widget.CoordinatorLayout>

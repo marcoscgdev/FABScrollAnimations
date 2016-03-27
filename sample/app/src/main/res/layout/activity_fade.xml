@@ -20,6 +20,6 @@
         app:elevation="6dp"
         app:layout_anchor="@+id/recyclerview"
         app:layout_anchorGravity="bottom|end"
-        app:layout_behavior="com.mcgdev.fabscrollanimations.Fade"/>
+        app:layout_behavior="com.marcoscg.fabscrollanimations.Fade"/>
 
 </android.support.design.widget.CoordinatorLayout>
