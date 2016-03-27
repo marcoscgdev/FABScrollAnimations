@@ -15,6 +15,6 @@ With this library, you can made this animations to your Floating Action Button w
 
   ![](http://i.imgur.com/qps7rJU.gif)         ![](http://i.imgur.com/eBi91N9.gif)          ![](http://i.imgur.com/jyKygPS.gif)
 
-**Video demo:** ![](http://www.marketingtango.com/wp-content/uploads/2014/02/YouTube-icon-full_color.png =200x110)
+**Video demo:** <img src=http://www.marketingtango.com/wp-content/uploads/2014/02/YouTube-icon-full_color.png width=600 height=100 />
 
 You can download the **sample apk** [here](http://apkshared.net/1JJ5?d=1).
