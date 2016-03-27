@@ -19,7 +19,7 @@ You can download the **sample apk** [here](http://apkshared.net/1JJ5?d=1).
 * A CoordinatorLayout as the master layout.
 * A RecyclerView with the scroll content.
 * The Support Library Floating Action Button.
-* 
+ 
 ---
 
 ###Usage:
