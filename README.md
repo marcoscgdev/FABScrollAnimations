@@ -4,7 +4,7 @@ With this library, you can made this animations to your Floating Action Button w
 
 | DEFAULT   |      FADE      |  FLOAT |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
+| ![](http://i.imgur.com/qps7rJU.gif) |  left-aligned | $1600 |
 
 **DEFAULT        FADE           FLOAT**
 
