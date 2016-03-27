@@ -76,6 +76,8 @@ The second one controls the FAB gravity.
 
 The third one tells to the FAB the animation that it have to do when the RecyclerView is beeing scrolled.
 
+---
+
 There are currently three animations:
 
 * **DEFAULT:**
