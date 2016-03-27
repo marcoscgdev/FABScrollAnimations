@@ -28,4 +28,6 @@ You can download the **sample apk** [here](https://github.com/marcoscgdev/fabscr
 
 ###Usage:
 
+`inline code`
+
 > Coming soon...
