@@ -29,7 +29,5 @@ You can download the **sample apk** [here](https://github.com/marcoscgdev/fabscr
 ###Usage:
 
 ```xml
-code here
+Coming soon
 ```
-
-> Coming soon...
