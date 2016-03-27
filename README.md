@@ -28,4 +28,4 @@ You can download the **sample apk** [here](https://github.com/marcoscgdev/fabscr
 
 ###Usage:
 
-
+> Coming soon...
