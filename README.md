@@ -1,6 +1,6 @@
 # FAB Scroll Animations
 
-With this library, you can made this animations to your Floating Action Button when a RecyclerView is beeing scrolled:
+With this Android library, you can made this animations to your Floating Action Button when a RecyclerView is beeing scrolled:
 
 | DEFAULT | FADE | FLOAT |
 |----------|:-------------:|------:|
