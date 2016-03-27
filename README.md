@@ -17,4 +17,4 @@ With this library, you can made this animations to your Floating Action Button w
 
 **Video demo:** (Coming soon)
 
-You can download the **example apk** [here](http://apkshared.net/1JJ5?d=1).
+You can download the **sample apk** [here](http://apkshared.net/1JJ5?d=1).
