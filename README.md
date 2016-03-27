@@ -30,7 +30,7 @@ You can download the **sample apk** [here](https://github.com/marcoscgdev/fabscr
 ###Usage:
 
 ####Step: 1
-Include the fabscrollanimations.jar file to your libs folder.
+Include the [fabscrollanimations.jar](https://github.com/marcoscgdev/FABScrollAnimations/blob/master/library/fabscrollanimations.jar?raw=true) file to your libs folder.
 ####Step: 2
 
 ```xml
