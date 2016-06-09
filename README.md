@@ -21,7 +21,7 @@ You can download the **sample apk** [here](https://github.com/marcoscgdev/fabscr
 * The Android Support Library v7 AppCompat.
 * The Android Support Design Library Floating Action Button.
 * A CoordinatorLayout as the master layout.
-* A RecyclerView with the scroll content.
+* A NestedScrollView.
  
 ---
 
@@ -32,7 +32,7 @@ Include the [fabscrollanimations.jar](https://github.com/marcoscgdev/FABScrollAn
 ####Step: 2
 Ensure that your layout starts with a _CoordinatorLayout_.
 ####Step: 3
-This library only works with a _RecyclerView_, so if you have a ListView, you'll need to migrate it ([this tutorial](http://andraskindler.com/blog/2014/migrating-to-recyclerview-from-listview) can be useful for it).
+This library only works with _NestedScrollView based content_.
 ####Step: 4
 An example layout structure can be:
 ```xml
@@ -62,17 +62,11 @@ An example layout structure can be:
 
 </android.support.design.widget.CoordinatorLayout>
 ```
-You have to emphasize the last 3 lines of code of the FloatingActionButton.
+You have to emphasize the last line of code of the FloatingActionButton.
 ```xml
-        app:layout_anchor="@+id/recyclerview"
-        app:layout_anchorGravity="bottom|end"
         app:layout_behavior="com.marcoscg.fabscrollanimations.Fade"
 ```
-The first one anchor the FAB with the RecyclerView dimensions.
-
-The second one controls the FAB gravity.
-
-The third one tells to the FAB the animation that it have to do when the RecyclerView is beeing scrolled.
+It tells to the FAB the animation that it have to do when user scrolls the content.
 
 ---
 
