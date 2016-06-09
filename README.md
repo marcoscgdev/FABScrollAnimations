@@ -1,6 +1,6 @@
 # FAB Scroll Animations  [![API](https://img.shields.io/badge/API-14%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=14) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FAB%20Scroll%20Animations-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/3367)
 
-With this Android library, you can made this animations with your [Support Library Floating Action Button](http://developer.android.com/reference/android/support/design/widget/FloatingActionButton.html) when a RecyclerView is beeing scrolled:
+With this Android library, you can made this animations with your [Support Library Floating Action Button](http://developer.android.com/reference/android/support/design/widget/FloatingActionButton.html) when a NestedScrollView is beeing scrolled:
 
 | DEFAULT | FADE | FLOAT |
 |----------|:-------------:|------:|
@@ -21,7 +21,7 @@ You can download the **sample apk** [here](https://github.com/marcoscgdev/fabscr
 * The Android Support Library v7 AppCompat.
 * The Android Support Design Library Floating Action Button.
 * A CoordinatorLayout as the master layout.
-* A NestedScrollView.
+* A NestedScrollView based scrolling content.
  
 ---
 
