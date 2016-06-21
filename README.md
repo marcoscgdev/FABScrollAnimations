@@ -95,4 +95,4 @@ There are currently three animations:
 
 ---
 
->See the [sample project](https://github.com/marcoscgdev/FABScrollAnimations/tree/master/sample) for clarify any queries you may have.
+>See the [sample project](https://github.com/marcoscgdev/FABScrollAnimations/tree/master/sample) to clarify any queries you may have.
