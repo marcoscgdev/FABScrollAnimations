@@ -8,7 +8,7 @@ With this Android library, you can made this animations with your [Support Libra
 
 ---
 
-###Demo:
+##Demo:
 
 **Video demo:** <a href=#><img src=http://www.marketingtango.com/wp-content/uploads/2014/02/YouTube-icon-full_color.png width=50 /></a>
 
@@ -16,7 +16,7 @@ You can download the **sample apk** [here](https://github.com/marcoscgdev/fabscr
 
 ---
 
-###Requirements:
+##Requirements:
 
 * The Android Support Library v7 AppCompat.
 * The Android Support Design Library Floating Action Button.
@@ -25,7 +25,7 @@ You can download the **sample apk** [here](https://github.com/marcoscgdev/fabscr
  
 ---
 
-###Usage:
+##Usage:
 
 ####Step: 1
 Include the [fabscrollanimations.jar](https://github.com/marcoscgdev/FABScrollAnimations/blob/master/library/fabscrollanimations.jar?raw=true) file to your _libs_ folder.
