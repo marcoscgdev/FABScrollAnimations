@@ -1,4 +1,4 @@
-# FAB Scroll Animations  [![API](https://img.shields.io/badge/API-14%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=14) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FAB%20Scroll%20Animations-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/3367)
+# [DISCONTINUED] FAB Scroll Animations  [![API](https://img.shields.io/badge/API-14%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=14) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FAB%20Scroll%20Animations-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/3367)
 
 With this Android library, you can made this animations with your [Support Library Floating Action Button](http://developer.android.com/reference/android/support/design/widget/FloatingActionButton.html) when a NestedScrollView is beeing scrolled:
 
@@ -8,7 +8,7 @@ With this Android library, you can made this animations with your [Support Libra
 
 ---
 
-##Demo:
+## Demo:
 
 **Video demo:** <a href=#><img src=http://www.marketingtango.com/wp-content/uploads/2014/02/YouTube-icon-full_color.png width=50 /></a>
 
@@ -16,7 +16,7 @@ You can download the **sample apk** [here](https://github.com/marcoscgdev/fabscr
 
 ---
 
-##Requirements:
+## Requirements:
 
 * The Android Support Library v7 AppCompat.
 * The Android Support Design Library Floating Action Button.
@@ -25,13 +25,13 @@ You can download the **sample apk** [here](https://github.com/marcoscgdev/fabscr
  
 ---
 
-##Usage:
+## Usage:
 
-####Step: 1
+#### Step: 1
 Include the [fabscrollanimations.jar](https://github.com/marcoscgdev/FABScrollAnimations/blob/master/library/fabscrollanimations.jar?raw=true) file to your _libs_ folder.
-####Step: 2
+#### Step: 2
 Ensure that your layout starts with a _CoordinatorLayout_.
-####Step: 3
+#### Step: 3
 This library only works with _NestedScrollView based content_.
 ####Step: 4
 An example layout structure can be:
